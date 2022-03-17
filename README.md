@@ -22,8 +22,10 @@
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LIMDANBI)](https://github.com/LIMDANBI/github-readme-stats)</a>
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=newsweetrain822)](https://solved.ac/newsweetrain822)
+<div align=center>
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LIMDANBI)](https://github.com/LIMDANBI/github-readme-stats)
+  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=newsweetrain822)](https://solved.ac/newsweetrain822)
+</div>
 
 <!--
 **LIMDANBI/LIMDANBI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
