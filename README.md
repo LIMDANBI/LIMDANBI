@@ -2,7 +2,7 @@
 
 - 🏫 I studied Computer Science at Hanyang University ERICA.
 - 📫 How to reach me: dlaeksql08222@gmail.com / imdanbi8@gmail.com
-- 🌱 Techs that I've used at least once 
+- 💻 Techs that I've used at least once 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> 
