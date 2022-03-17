@@ -22,9 +22,13 @@
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>
 
+<hr>
+
 <div align=center>
+  
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LIMDANBI)](https://github.com/LIMDANBI/github-readme-stats)
   [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=newsweetrain822)](https://solved.ac/newsweetrain822)
+  
 </div>
 
 <!--
