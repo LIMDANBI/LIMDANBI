@@ -26,7 +26,7 @@
 
 <div align=center>
   
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LIMDANBI)](https://github.com/LIMDANBI/github-readme-stats)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LIMDANBI)](https://github.com/LIMDANBI/github-readme-stats) </a>
   [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=newsweetrain822)](https://solved.ac/newsweetrain822)
   
 </div>
