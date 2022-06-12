@@ -1,5 +1,6 @@
 ### Hi there, I'm Danbi! 👋
 
+- 🌱 I’m currently learning about AI(DL).
 - 🏫 I am majoring Computer Science at Hanyang University ERICA.
 - 📫 How to reach me: dlaeksql08222@gmail.com / imdanbi8@gmail.com
 - ✨ Techs that I've used at least once 
