@@ -7,11 +7,16 @@
 
 <hr>
 
-<div align=center>
+<!-- <div align=center>
   
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LIMDANBI)](https://github.com/LIMDANBI/github-readme-stats) </a>
   [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=newsweetrain822)](https://solved.ac/newsweetrain822)
   
+</div> -->
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=LIMDANBI&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=newsweetrain822">
 </div>
 
 <hr>
