@@ -16,6 +16,14 @@
 
 <hr>
 
+FnGuide AI 팀 현장실습 [2021.06.28 ~ 2021.08.27]
+삼성SDS 2022 동계 알고리즘 특강 [2022.01.03 ~ 2022.01.14]
+SKT FLYAI 아카데미 1기 [2022.06.27 ~ 2022.09.02]
+
+<hr>
+
+
+
 <!--
 **LIMDANBI/LIMDANBI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
