@@ -16,9 +16,12 @@
 
 <hr>
 
-- 2021.06~2021.08 | FnGuide AI팀 인턴 👩🏻‍💻
-- 2022.01~2022.01 | 삼성 SDS 알고리즘 특강 이수 👩🏻‍💻
-- 2022.06~2022.09 | SKT FLY AI Challenger 👩🏻‍💻
+외부 활동 
+#### 👩🏻‍💻 2021.06~2021.08 | FnGuide AI팀 인턴
+#### 👩🏻‍💻 2022.01~2022.01 | 삼성 SDS 알고리즘 특강 이수
+#### 👩🏻‍💻 2022.06~2022.09 | SKT FLY AI Challenger
+
+프로젝트 
 
 <!--
 **LIMDANBI/LIMDANBI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
