@@ -1,4 +1,4 @@
-### Hi there, I'm Danbi! 👋
+## Hi there, I'm Danbi! 👋
 
 - 🌱 I’m currently learning about AI and Back-end.
 - 🏫 I majored in Computer Science at Hanyang University ERICA. [2019 ~ 2022]
