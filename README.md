@@ -1,8 +1,8 @@
 ### Hi there, I'm Danbi! 👋
 
 - 🌱 I’m currently learning about AI and Back-end.
-- 🏫 I majored in Computer Science at Hanyang University ERICA.
-- 📫 How to reach me: dlaeksql08222@gmail.com / imdanbi8@gmail.com
+- 🏫 I majored in Computer Science at Hanyang University ERICA. [2019 ~ 2022]
+- 📫 How to reach me: dlaeksql08222@gmail.com
 
 ### Language 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> <br/>
