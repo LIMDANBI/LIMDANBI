@@ -33,8 +33,8 @@ APP <br/>
 #### 👩🏻‍💻 2022.01~2022.01 | 삼성 SDS 알고리즘 특강 이수
 #### 👩🏻‍💻 2022.06~2022.09 | [SKT FLY AI Challenger](https://github.com/LIMDANBI/SKTFLYAI)
 
+<br/>
 
-<hr>
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=LIMDANBI&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
