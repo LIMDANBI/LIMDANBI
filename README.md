@@ -4,6 +4,10 @@
 - 🏫 I majored in Computer Science at Hanyang University ERICA. [2019 ~ 2022]
 - 📫 How to reach me: dlaeksql08222@gmail.com
 
+<hr>
+
+## 🔧 Skills
+
 ### Language 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> <br/>
 
@@ -23,10 +27,11 @@ APP <br/>
 
 <hr>
 
+## 💻 Experience
 
-#### 👩🏻‍💻 2021.06~2021.08 | FnGuide AI팀 인턴
-#### 👩🏻‍💻 2022.01~2022.01 | 삼성 SDS 알고리즘 특강 이수
-#### 👩🏻‍💻 2022.06~2022.09 | [SKT FLY AI Challenger](https://github.com/LIMDANBI/SKTFLYAI)
+### 👩🏻‍💻 2021.06~2021.08 | FnGuide AI팀 인턴
+### 👩🏻‍💻 2022.01~2022.01 | 삼성 SDS 알고리즘 특강 이수
+### 👩🏻‍💻 2022.06~2022.09 | [SKT FLY AI Challenger](https://github.com/LIMDANBI/SKTFLYAI)
 
 
 <hr>
