@@ -1,6 +1,6 @@
 ## Hi there, I'm Danbi! 👋
 
-- 🌱 I’m currently learning about AI and Back-end.
+- 🌱 I’m currently learning about AI and Backend.
 - 🏫 I majored in Computer Science at Hanyang University ERICA. [2019 ~ 2022]
 - 📫 How to reach me: dlaeksql08222@gmail.com
 
