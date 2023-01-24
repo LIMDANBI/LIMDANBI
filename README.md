@@ -1,7 +1,9 @@
 ## Hi there, I'm Danbi! 👋
 
 - 🌱 I’m currently learning about AI and Backend.
-- 🏫 I majored in Computer Science at Hanyang University ERICA. [2019 ~ 2022]
+- 🏫 I majored in Computer Science at Hanyang University ERICA.
+> - 2019 ~ 2022
+> - GPA : 4.33/4.5
 - 📫 How to reach me: dlaeksql08222@gmail.com
 
 <hr>
