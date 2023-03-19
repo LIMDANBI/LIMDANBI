@@ -32,6 +32,15 @@ APP <br/>
 
 <hr>
 
+## 💻 Blog
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=danbibibi)](https://velog.io/@danbibibi) 
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={danbibibi})](https://github.com/loosie/github-readme-tistory-card)
+
+
+
+<hr>
+
 ## 💻 Experience
 
 #### 👩🏻‍💻 2021.06 ~ 2021.08 | FnGuide AI팀 인턴
