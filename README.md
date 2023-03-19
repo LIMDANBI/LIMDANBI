@@ -34,8 +34,11 @@ APP <br/>
 
 ## 💻 Blog
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=danbibibi)](https://velog.io/@danbibibi) </a> [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=danbibibi)](https://danbibibi.tistory.com/)
-
+<a href="https://danbibibi.tistory.com/">
+    <img 
+        src="http://img.shields.io/badge/-Tistory-222222?style=flat&logo=Tistory&link=https://danbibibi.tistory.com/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 <hr>
 
