@@ -39,10 +39,7 @@ APP <br/>
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-<a href="https://velog.io/@danbibibi" target="_blank"><img 
-       src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"
-       style="height : auto; margin-left : 10px; margin-right : 10px;"/>/>
-</a>
+<a href="https://velog.io/@danbibibi">![Blog](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@danbibibi)</a>
 
 <!-- [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@danbibibi)
  -->
