@@ -33,11 +33,8 @@ APP <br/>
 <hr>
 
 ## 💻 Tech Blog
-
-<a href="https://danbibibi.tistory.com/"><img 
-        src="http://img.shields.io/badge/-Tistory-222222?style=flat&logo=Tistory&link=https://danbibibi.tistory.com/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> <a>[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@danbibibi)</a>
+<a>[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@danbibibi)</a>
+<a href="https://danbibibi.tistory.com/"><img src="http://img.shields.io/badge/-Tistory-222222?style=flat&logo=Tistory&link=https://danbibibi.tistory.com/"></a>
 
 <hr>
 
