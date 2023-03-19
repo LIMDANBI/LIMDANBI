@@ -35,7 +35,7 @@ APP <br/>
 ## 💻 Blog
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=danbibibi)](https://velog.io/@danbibibi) 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=danbibibi)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=danbibibi)](https://danbibibi.tistory.com/)
 
 
 
