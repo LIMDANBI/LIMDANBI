@@ -41,7 +41,6 @@ APP <br/>
 ## 💻 Experience
 
 #### 👩🏻‍💻 2021.06 ~ 2021.08 | FnGuide AI팀 인턴
-#### 👩🏻‍💻 2022.01 ~ 2022.01 | 삼성 SDS 알고리즘 특강 이수
 #### 👩🏻‍💻 2022.06 ~ 2022.09 | [SKT FLY AI Challenger](https://github.com/LIMDANBI/SKTFLYAI)
 #### 👩🏻‍💻 2023.03 ~ ing | SSAFY 9기
 
