@@ -42,7 +42,7 @@ APP <br/>
 
 #### 👩🏻‍💻 2021.06 ~ 2021.08 | FnGuide AI팀 인턴
 #### 👩🏻‍💻 2022.06 ~ 2022.09 | [SKT FLY AI Challenger](https://github.com/LIMDANBI/SKTFLYAI)
-#### 👩🏻‍💻 2023.03 ~ ing &nbsp; &nbsp; &nbsp;| SSAFY 9기
+#### 👩🏻‍💻 2023.03 ~ ing &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| SSAFY 9기
 
 <br/>
 
