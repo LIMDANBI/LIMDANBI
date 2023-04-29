@@ -44,7 +44,7 @@ APP <br/>
 ## 💻 Experience
 
 #### 👩🏻‍💻 2021.06 ~ 2021.08 | FnGuide AI팀 인턴
-#### 👩🏻‍💻 2022.06 ~ 2022.09 | [SKT FLY AI Challenger](https://github.com/LIMDANBI/SKTFLYAI)
+#### 👩🏻‍💻 2022.06 ~ 2022.09 | [SKT FLY AI Challenger](https://github.com/LIMDANBI/SKTFLYAI) 🏆 패기 부문 대상 수상
 #### 👩🏻‍💻 2023.03 ~ ing &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;| SSAFY 9기
 
 <br/>
