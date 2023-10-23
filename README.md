@@ -44,8 +44,6 @@ APP <br/>
 #### 👩🏻‍💻 2022.06 ~ 2022.09 | [SKT FLY AI Challenger](https://github.com/LIMDANBI/SKTFLYAI)
 #### 👩🏻‍💻 2023.01 ~ 2023.06 | SSAFY 9기
 
-<br/>
-
 
 <!--
 <div>
