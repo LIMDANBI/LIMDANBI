@@ -1,4 +1,4 @@
-# Hi there, I'm Danbi! 🙇🏻‍♀️
+# Hi there, I'm Danbi 👋🏻
 
 - 🌱 I'm currently working as a SW engineer at LG Electronics.
 - 📫 How to reach me: dlaeksql08222@gmail.com
